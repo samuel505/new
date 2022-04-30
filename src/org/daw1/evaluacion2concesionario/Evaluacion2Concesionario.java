@@ -160,7 +160,7 @@ public class Evaluacion2Concesionario {
                         if (con1.registrarVenta(nbastidor)) {
                             System.out.println("Se ha registrado la venta exitosamente");
                         }else{
-                            System.out.println("No existe el vehiculo, no se pudo registrar");
+                            System.out.println("No existe el vehiculo, no se pudo registrar la venta del vehiculo"");
                         }
 
                     break;
